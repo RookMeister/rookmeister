@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ### 📬 Get in Touch
 
-- GitHub: [github.com/RookMeister][github]
+- GitHub: [github](github.com/RookMeister)
 <!-- - LinkedIn: coming soon -->
 <!-- - Site: [rookmeister.github.io][site] -->
 - E-mail: artemhmelwork@gmail.com
